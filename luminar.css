@@ -37,3 +37,23 @@
     background-color:white ;
     color: black;
 }
+.c11{width:100%;
+    height:450px;
+    margin-left:-10px;
+}
+.c12{
+    width:100%;
+    height:450px;
+    margin-left:-12px;
+}
+.c13{
+    width:100%; 
+    height:450px;
+    margin-left:-12px;
+    width
+}
+@media screen (max-width: 780) {
+    #xx1{
+        font-size:18px;
+    }
+}
