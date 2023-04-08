@@ -1,0 +1,39 @@
+.button1{
+      margin-top:50px;
+      width:170px;
+      height:50px;
+      border-radius:30px;
+      text-align:center;
+}
+.button1:hover{
+    background-color:darkmagenta;
+    color:white ; 
+}
+.c11:hover{
+    scale:1.1 ;
+    box-shadow: 10px 10px 5px 12px rgba(210, 203, 203, 0.429);
+
+}
+.c12:hover{
+    scale:1.1;
+    box-shadow: 10px 10px 5px 12px rgba(210, 203, 203, 0.429);
+}
+.c13:hover{
+    scale:1.1 ;
+    box-shadow: 10px 10px 5px 12px rgba(210, 203, 203, 0.384);
+}
+.b11:hover{
+    scale:1.1 ;
+}
+.d11{
+      background-color: #652ef0;
+      color: white;
+      border-radius: 40px; 
+      height: 50px; 
+      width: 150px;
+
+}
+.d11:hover{
+    background-color:white ;
+    color: black;
+}
